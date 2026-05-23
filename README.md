@@ -19,11 +19,15 @@ Enlace: https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-i
 
  1.**Decision Tree Classifier**
  
- 2.**Maquina de soporte vectorial**
+ 2.**Random Forest**
  
- 3.**Random forest**
+ 3.**Maquina de Soporte Vectorial**
  
- 4.**Reduccion de dimensionalidad**
+ 4.**Reduccion de Dimensionalidad**
+
+ 5.**PCA**
+
+ 6.**DBSCAN**
 
 ## Enlaces
  1.**Video**
