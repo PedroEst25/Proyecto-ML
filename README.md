@@ -13,7 +13,7 @@ El objetivo principal de este proyecto es diseñar, implementar y evaluar un pip
 
 **Online shoppers intention:** Es una coleccion de datos que ayuda a predecir si la sesión de navegación de un usuario en una página web de comercio electrónico terminará o no en una compra (transacción).
 
-    Enlace: https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset
+Enlace: https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset
 
 ## Modelos Utilizados
 
