@@ -17,13 +17,18 @@ Enlace: https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-i
 
 ## Modelos Utilizados
 
- 1.**Decision Tree Classifier:**
+ 1.**Decision Tree Classifier**
+ 
  2.**Maquina de soporte vectorial**
+ 
  3.**Random forest**
+ 
  4.**Reduccion de diemsionalidad**
 
 ## Enlaces
  1.**Video**
+ 
  2.**Notebook**
+ 
  3.**Diapositivas**
  
