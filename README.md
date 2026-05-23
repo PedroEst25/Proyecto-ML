@@ -23,7 +23,7 @@ Enlace: https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-i
  
  3.**Random forest**
  
- 4.**Reduccion de diemsionalidad**
+ 4.**Reduccion de dimensionalidad**
 
 ## Enlaces
  1.**Video**
