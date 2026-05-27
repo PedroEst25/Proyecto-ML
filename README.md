@@ -30,7 +30,7 @@ Enlace: https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-i
  6.**DBSCAN**
 
 ## Enlaces
- 1.**Video:** https://drive.google.com/file/d/16olJ4berPlYfUiQKEeFX67hIYQk9swto/view?usp=sharing
+ 1.**Video:** https://youtu.be/iVUOIjNyy7Q
  
  2.**Notebook:** https://drive.google.com/file/d/1eMYLcMlCRQ95rQZRBxTvM63YZtbCzMzk/view?usp=sharing 
  
